@@ -11,7 +11,8 @@ Beyond the technical side, I love the challenge of solving real-world data probl
 
 ## 📌 Experience
 
-**Data Engineer Intern @ Sun Life Vietnam** | May 2024 - Present
+### Data Engineer Intern @ Sun Life Vietnam | May 2024 - Present
+
 - Designed and implemented ETL pipelines for batch and near real-time data processing, automating data ingestion and transformation to enhance accessibility and integration within centralized data lakes.
 - Leveraged Infrastructure as Code (IaC) to automate cloud resource provisioning, improving scalability, efficiency, and consistency.
 - Conducted research and development (R&D) on data engineering solutions, collaborating with senior engineers to experiment with new frameworks, architectures, and best practices for optimizing data workflows.
