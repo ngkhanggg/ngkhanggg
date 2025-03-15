@@ -19,7 +19,7 @@ Beyond the technical side, I love the challenge of solving real-world data probl
 
 ## 💻 Technical Skills
 
-- ***Technologies***: Git, Apacche Hive, Apache Spark, Apache Iceberg, Docker
+- ***Technologies***: Git, Apache Hive, Apache Spark, Apache Iceberg, Docker
 - ***AWS***: Athena, CloudFormation, DMS, DynamoDB, EC2, Glue, IAM, Lambda, RDS, S3
 - ***Programming Languages***: Python, Java, HTML/CSS, JavaScript
 - ***Frameworks***: PySpark, Spring Boot, ReactJS, TailwindCSS, ExpressJS
