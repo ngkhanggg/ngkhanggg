@@ -2,12 +2,13 @@
 
 🎓 Student at RMIT University Vietnam
 
-🚀 Aspiring Data Engineer | Cloud & Big Data Enthusiast
+🚀 Aspiring Data Engineer/Data Scientist | Cloud & Big Data Enthusiast
 
-I am fascinated by how raw information transforms into insights that drive businesses forward.
-As an aspiring data engineer, I thrive on designing  scalable, efficient, and automated data workflows that power real-time decision-making.
+## 💡 Summary
 
-Beyond the technical side, I love the challenge of solving real-world data problems and continuously learning new tools and technologies.
+- Having experience in data engineering and cloud computing, specializing in designing and implementing ETL pipelines for batch and near real-time data processing, ensuring efficient data ingestion, transformation, and integration into a centralized data lakehouse.
+- Having experience in cloud integration using AWS services such as Athena, CloudFormation, DMS, DynamoDB, Glue, Lambda, RDS, and S3, enabling seamless data movement and processing across cloud environments.
+- Having experience in big data technologies, including Apache Hive, Apache Spark, and Apache Iceberg, to support scalable and efficient data workflows. Expertise in data modeling, data ingestion, and infrastructure automation using Infrastructure as Code (IaC) to enhance scalability, efficiency, and consistency.
 
 ## 📌 Experience
 
@@ -21,7 +22,7 @@ Beyond the technical side, I love the challenge of solving real-world data probl
 
 - ***Technologies***: Git, Apache Hive, Apache Spark, Apache Iceberg, Docker
 - ***AWS***: Athena, CloudFormation, DMS, DynamoDB, EC2, Glue, IAM, Lambda, RDS, S3
-- ***Programming Languages***: Python, Java, HTML/CSS, JavaScript
+- ***Programming Languages***: Python, Java, SQL, HTML/CSS, JavaScript
 - ***Frameworks***: PySpark, Spring Boot, ReactJS, TailwindCSS, ExpressJS
 - ***DBMS***: Firebase, MongoDB, MySQL, PostgreSQL
 
