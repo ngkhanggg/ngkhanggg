@@ -7,8 +7,8 @@
 ## 💡 Summary
 
 - Having experience in data engineering and cloud computing, specializing in designing and implementing ETL pipelines for batch and near real-time data processing, ensuring efficient data ingestion, transformation, and integration into a centralized data lakehouse.
-- Having experience in cloud integration using AWS services such as Athena, CloudFormation, DMS, DynamoDB, Glue, Lambda, RDS, and S3, enabling seamless data movement and processing across cloud environments.
-- Having experience in big data technologies, including Apache Hive, Apache Spark, and Apache Iceberg, to support scalable and efficient data workflows. Expertise in data modeling, data ingestion, and infrastructure automation using Infrastructure as Code (IaC) to enhance scalability, efficiency, and consistency.
+- Having experience in cloud integration using AWS to enable seamless data movement and processing across cloud environments.
+- Having experience in big data technologies to support scalable and efficient data workflows. Expertise in data modeling, data ingestion, and infrastructure automation using Infrastructure as Code (IaC) to enhance scalability, efficiency, and consistency.
 
 ## 📌 Experience
 
